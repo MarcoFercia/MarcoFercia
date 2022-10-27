@@ -15,6 +15,7 @@ Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in 
 ## <img src = "https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width = "40"> About me
 
 
+
 ## <img src = "https://media.giphy.com/media/WnCVJZqLBkM42IUJZs/giphy.gif" width = "40"> Skills
 
 ![C++](https://img.shields.io/badge/C++-FF0040?style=for-the-badge&logo=c&logoColor=black&labelColor=D8D8D8)</br>
@@ -27,6 +28,11 @@ Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in 
 
 ## <img src = "https://media.giphy.com/media/3BMX9JtQImFgdbZbIV/giphy.gif" width = "40"> Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Fernández_García-FF0040?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
+
+
+## <img src = "https://media.giphy.com/media/htjx404WQPeEgwZ9Wl/giphy.gif" width = "60"> Contact
+[![Email](https://img.shields.io/badge/Email-marcofernandezgarciaa@gmail.com-FF0040?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
+
 
 
 <!---
