@@ -14,7 +14,7 @@ Now I'm finishing Howl of Iron in U-tad and preparing myself to start in the gam
 
 
 # Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco Antonio Fernández García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
 
 
 <!---
