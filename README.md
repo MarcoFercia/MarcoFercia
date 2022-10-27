@@ -1,16 +1,4 @@
-<!---
 
-- 👋 Hi, I’m @MarcoFercia
-- 👀 I’m interested VideoGames and Programming
-- 🌱 I’m currently learning C++ and Unreal Engine
-- 💞️ I’m working on Howl Of Iron
-- 📫 You can write me on marcoferciatr@gmail.com or https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214
-- 
-
-
-MarcoFercia/MarcoFercia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 # Hello, my name is Marco Fernandez Garcia
@@ -26,4 +14,19 @@ Now I'm finishing Howl of Iron in U-tad and preparing myself to start in the gam
 
 
 # Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Germán_López_Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
 
+
+<!---
+
+- 👋 Hi, I’m @MarcoFercia
+- 👀 I’m interested VideoGames and Programming
+- 🌱 I’m currently learning C++ and Unreal Engine
+- 💞️ I’m working on Howl Of Iron
+- 📫 You can write me on marcoferciatr@gmail.com or https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214
+- 
+
+
+MarcoFercia/MarcoFercia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
