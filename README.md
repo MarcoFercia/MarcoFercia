@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 I studied 3D animations, games and interactive enviroments at Seville. During these studies I learn how to 3D model, animate and texturing. Also I learn a bit of C# in Unity and made my first projects.
 
-After these, I studied Game Programming Master's Degree at U-Tad, Madrid. Where I learn a lot about C++ and video game programming. Also I learn how to use Unreal Engine and Unity.
+After these, I'm studying Game Programming Master's Degree at U-Tad, Madrid. Where I learn a lot about C++ and video game programming. Also I learn how to use Unreal Engine and Unity.
 
 
-
+Now I'm finishing Howl of Iron in U-tad and preparing myself to start in the game industry.
 
 
 
