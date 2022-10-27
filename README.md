@@ -15,8 +15,8 @@ Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in 
 
 ## <img src = "https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width = "40"> About me 
 
-I love RPG third-person games and action games. Also I like fantasy and magic games. </br>
-Furthermore I like pop music and game soundtracks. </br>
+I love RPG third-person games and action games. Also I like fantasy and magic games. I love Horion Zero Dawn and Kingdom Hearts. </br>
+Furthermore I like pop music and game soundtracks and my favourite artist is Taylor Swift. </br>
 My favourite saga is Harry Potter, but also I like movies and action series.
 
 ## <img src = "https://media.giphy.com/media/WnCVJZqLBkM42IUJZs/giphy.gif" width = "40"> Skills
