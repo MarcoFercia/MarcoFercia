@@ -9,13 +9,13 @@ I studied 3D animations, games and interactive enviroments at Seville. During th
 After these, I'm studying Game Programming Master's Degree at U-Tad, Madrid. Where I learn a lot about C++ and video game programming. Also I learn how to use Unreal Engine and Unity.
 
 
-Now I'm finishing Howl of Iron in U-tad and preparing myself to start in the game industry.
+Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in the game industry.
 
 
 
-# Find me
+## <img src="https://media.giphy.com/media/CNHwfdaHPNYQPzAIoS/giphy.gif" width = "40"> Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Antonio_Fernández_García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
-[![LinkedIn]
+
 
 <!---
 
