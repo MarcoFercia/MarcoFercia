@@ -17,7 +17,7 @@ Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in 
 ![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![Jira](https://img.shields.io/badge/Jira-0066A1?style=for-the-badge&logo=Jira&logoColor=white&labelColor=101010)
+![Jira](https://img.shields.io/badge/Jira-0066A1?style=for-the-badge&logo=Atlassian&logoColor=white&labelColor=101010)
 
 
 
