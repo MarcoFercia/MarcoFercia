@@ -12,17 +12,21 @@ After these, I'm studying Game Programming Master's Degree at U-Tad, Madrid. Whe
 Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in the game industry.
 
 
-## <img src = "https://media.giphy.com/media/ncdlJ72Ninnalu0ZWy/giphy.gif" width = "40"> Skills
-
-![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
-![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
-![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![Jira](https://img.shields.io/badge/Jira-0066A1?style=for-the-badge&logo=Atlassian&logoColor=white&labelColor=101010)
+## <img src = "https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width = "40"> About me
 
 
+## <img src = "https://media.giphy.com/media/WnCVJZqLBkM42IUJZs/giphy.gif" width = "40"> Skills
 
-## <img src = "https://media.giphy.com/media/ujRzeiPjRKoLRW0i1Z/giphy.gif" width = "20"> Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Antonio_Fernández_García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
+![C++](https://img.shields.io/badge/C++-FF0040?style=for-the-badge&logo=c&logoColor=black&labelColor=D8D8D8)</br>
+![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-FF0040?style=for-the-badge&logo=unrealengine&logoColor=black&labelColor=D8D8D8)</br>
+![Unity](https://img.shields.io/badge/Unity-FF0040?style=for-the-badge&logo=unity&logoColor=black&labelColor=D8D8D8)</br>
+![Jira](https://img.shields.io/badge/Jira-FF0040?style=for-the-badge&logo=Atlassian&logoColor=black&labelColor=D8D8D8)</br>
+
+
+
+
+## <img src = "https://media.giphy.com/media/3BMX9JtQImFgdbZbIV/giphy.gif" width = "40"> Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Fernández_García-FF0040?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
 
 
 <!---
