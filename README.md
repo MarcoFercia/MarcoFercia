@@ -12,8 +12,15 @@ After these, I'm studying Game Programming Master's Degree at U-Tad, Madrid. Whe
 Now I'm finishing Howl of Iron at U-tad center and preparing myself to start in the game industry.
 
 
+## <img src = "https://media.giphy.com/media/ncdlJ72Ninnalu0ZWy/giphy.gif" width = "40"> Skills
 
-## <img src="https://media.giphy.com/media/CNHwfdaHPNYQPzAIoS/giphy.gif" width = "40"> Find me
+![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
+![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
+![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+
+
+
+## <img src = "https://media.giphy.com/media/ncdlJ72Ninnalu0ZWy/giphy.gif" width = "40"> Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Antonio_Fernández_García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-antonio-fern%C3%A1ndez-garcia-b47b62214/)</br>
 
 
