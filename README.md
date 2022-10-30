@@ -28,14 +28,26 @@ My favourite saga is Harry Potter, but also I like movies and action series.
 
 ## <img src = "https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width = "40"> Projects
 
-<table style="width:100%">
+<table style="width:10%">
   <tr>
     <td>
 	<a href="https://github.com/MarcoFercia/Public_HowlOfIron">
-  		<img src="https://user-images.githubusercontent.com/98056691/198885264-41f6d27f-9659-42f6-819c-0651877b87c7.jpg">
+  		<img src="https://user-images.githubusercontent.com/98056691/198890769-36bb5561-cfa9-4b86-9977-61b25088a4ea.png">
 	</a>
 	<a href="https://github.com/MarcoFercia/Public_HowlOfIron">Howl Of Iron (UE)</a>
-	</td>
+	</td>	  
+	<td>
+	<a href="https://github.com/MarcoFercia/U-tad-Practices">
+  		<img src="https://user-images.githubusercontent.com/98056691/198890184-07684205-270a-4449-8e0b-21dc79a5a87a.jpg">
+	</a>
+	<a href="https://github.com/MarcoFercia/U-tad-Practices">Practices U-tad</a>
+	</td>	  
+	 <td>
+	<a href="https://github.com/MarcoFercia/PrisionDelCoso">
+  		<img src="https://user-images.githubusercontent.com/98056691/198891037-958dc590-724f-4b59-9bf2-01a7cc61f170.png">
+	</a>
+	<a href="https://github.com/MarcoFercia/PrisionDelCoso">Prision Del Coso</a>
+	</td>	 
   </tr>
 </table>
 
@@ -61,5 +73,6 @@ My favourite saga is Harry Potter, but also I like movies and action series.
 
 MarcoFercia/MarcoFercia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
+
 
