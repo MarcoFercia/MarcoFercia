@@ -9,7 +9,7 @@ I studied 3D animations, games and interactive enviroments at Seville. During th
 After these, I study Game Programming Master's Degree at U-Tad, Madrid. Where I learn a lot about C++ and video game programming. Also I learn how to use Unreal Engine and Unity.
 
 
-Now I'm working on Daloar Studios, in The Occultist. I'm working as Porting Programmer doing it for PS5. 
+Now I'm working on Grip Studios in Prague.
 
 
 
